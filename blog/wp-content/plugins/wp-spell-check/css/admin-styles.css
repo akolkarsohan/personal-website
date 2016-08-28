@@ -1,0 +1,20 @@
+.request-feature-container { position: fixed; bottom: 0em; right: 50%; margin-right: -200px; z-index: 99999; width: 400px; background: white; }
+.request-feature-popup { border-right: 2px darkgray solid; border-left: 2px darkgray solid; border-top: 2px darkgrey solid; border-top-left-radius: 15px; border-top-right-radius: 15px; padding: 8px; font-size: 1.3em; text-align: center; margin-bottom: -14px; }
+.request-feature-popup p { font-size: 1em; }
+.request-feature-popup .close-popup { position:absolute; top: 5px; right: 11px; text-decoration: none; }
+.request-feature-popup button { padding: 5px 30px; background-color: #0096ff; color: white; border-radius: 5px; }
+.request-feature { border-right: 2px darkgray solid; border-left: 2px darkgray solid; text-align: center; box-shadow: black 1px -2px 1px;  }
+.request-feature a { margin: 0 16px; font-size: 1.4em; line-height: 1.4em; }
+.wpsc-install-notice { position: fixed; left: 50%; top: 50%; width: 560px; margin: -255px 0 0 -230px; border-radius: 10px; background: white; box-shadow: black 1px 1px 1px; text-align: center; height: 420px; padding: 10px; z-index: 99999; }
+.wpsc-install-content { display: block; width: 100%; vertical-align: top; margin: 10px 0px; }
+.wpsc-install-notice img { display: block; margin: auto; }
+.wpsc-install-dismiss { float: right; text-align: right; }
+.newsletter-submit { background: #228CD8; color: white; padding: 5px; border-radius: 5px; font-weight: bold; }
+.wpsc-misspelled-word { background: yellow; }
+.wpsc-row .Ignore,.wpsc-row span.Add.to.Dictionary { color: Black; }
+.wpsc-highlight-row, .wpsc-highlight-row a { color: #008200!important; font-weight: bold; font-size: 14px; }
+.wpsc-unselected-row { opacity: 0.55; }
+.wpsc-suggestion-content span, .wpsc-edit-content span, .wpsc-edit-content label { color: #008200; }
+.wpsc-scan-buttons input[disabled],.wpsc-scan-buttons input:disabled { background: darkgrey!important; color: white!important; border-color: grey!important; }
+.wpsc-table .tablenav { float: none!important; display: inline-block; }
+.wpsc-table .fb-comments, .wpsc-table .fb-comments iframe[style] {width: 100% !important;}

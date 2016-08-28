@@ -1,0 +1,22 @@
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "9422752412soh";
+$dbname = "job_search";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
+
+// sql to create table
+$sql = "select company_name,location from job_search.company_info";
+
+$result = $con
+
+
+
+$conn->close();
+?>
