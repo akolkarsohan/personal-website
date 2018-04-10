@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "9422752412soh";
+$password = "password";
 $dbname = "job_search";
 
 // Create connection
